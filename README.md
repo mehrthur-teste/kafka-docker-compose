@@ -1,3 +1,3 @@
 # kafka-docker-compose
 An sample docker compose kafka
-$ docker-compose up -d --build
+# docker-compose up -d --build
